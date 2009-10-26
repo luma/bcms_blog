@@ -26,7 +26,6 @@ Gem::Specification.new do |s|
      "app/views/cms/blog_posts/render.html.erb",
      "app/views/cms/blogs/_form.html.erb",
      "app/views/cms/blogs/render.html.erb",
-     "app/views/portlets/blog_post/_blog_post.html.erb",
      "app/views/portlets/blog_post/_form.html.erb",
      "app/views/portlets/blog_post/render.html.erb",
      "db/migrate/20090415000000_create_blogs.rb",
